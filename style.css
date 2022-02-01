@@ -94,6 +94,13 @@ h1, h2 {
     font-family: 'Merriweather', serif;
 }
 
+.skills,
+.portfolio,
+.video,
+.price {
+  padding-top: 100px;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -270,8 +277,6 @@ h3 {
 }
 
 .skills {
-  padding-top: 100px;
-  min-height: 482px;
   text-align: center;
 }
 
@@ -334,7 +339,6 @@ h3 {
 }
 
 .portfolio {
-  padding-top: 100px;
   text-align: center;
 }
 
@@ -367,7 +371,6 @@ h3 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 25px;
-  margin-bottom: 100px;
 }
 
 .winter,
@@ -405,7 +408,6 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 100px;
 }
 
 .player {
