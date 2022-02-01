@@ -205,7 +205,6 @@ a {
   background-repeat: no-repeat;
   padding-top: 162px;
   padding-left: 20px;
-  margin-bottom: 100px;
 }
 
 h1 {
@@ -271,6 +270,7 @@ h3 {
 }
 
 .skills {
+  padding-top: 100px;
   min-height: 482px;
   text-align: center;
 }
@@ -334,6 +334,7 @@ h3 {
 }
 
 .portfolio {
+  padding-top: 100px;
   text-align: center;
 }
 
@@ -581,7 +582,7 @@ input:-webkit-autofill:active {
   margin-bottom: 50px;
 }
 
-.rolling-scopes:hover {
+.orlinskiy:hover {
   color: #BDAE82;
 }
 
